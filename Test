@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GTG Cloudflare Sandbox</title>
+</head>
+<body>
+    <h1>Google Tag Gateway Test Site</h1>
+    <p>Welcome to my sandbox. Testing GTG integration on Cloudflare.</p>
+</body>
+</html>
